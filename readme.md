@@ -31,9 +31,10 @@ L'application utilise une base de données MySQL permettant notamment de gérer 
 #### *Démonstration*
 Une version du projet est hébergée sur le serveur de l'Université Paris 8 : **https://handiman.univ-paris8.fr/~malvina/siteweb/** <br>
 #### *Page d'accueil*
-
+![Accueil](images_readme/acceuil.png)
 ##### *Calendrier et ateliers*
-
+![Accueil](images_readme/calendrier.png)
 ##### *Espace administrateur*
-
+![Accueil](images_readme/admin.png)
 ##### *Fonctionnalités d'accessibilité*
+![Accueil](images_readme/accessibilite.png)
