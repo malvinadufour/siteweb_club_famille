@@ -3,8 +3,8 @@
 
 $db_hote = 'localhost';
 $db_utilisateur = 'malvina';
-$db_mot_de_passe = 'nofemabryiknar2';
-$db_nom = 'p27_malvina';
+$db_mot_de_passe = 'motdepasse';
+$db_nom = 'nomdelabase';
 
 try {
     $pdo = new PDO(
